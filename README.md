@@ -24,9 +24,9 @@ Required Python libraries:
 How to Use:
 
 - Step1: Select an Image: Choose the PNG image in which you want to hide the text. 
-- Step2: Select a Text File(Skip this step if you are extracting data from an Image): Choose the text file with the message to be hidden.
-- Step3: Embed Text(If you are extracting skip this step): Set a password and embed the text into the image.
-- Step4: Extract Text(If you are embedding skip this step): Select an image with hidden text, provide the correct password, and extract the hidden message.
+- Step2: Select a Text File (Skip this step if you are extracting data from an Image): Choose the text file with the message to be hidden.
+- Step3: Embed Text (If you are extracting skip this step): Set a password and embed the text into the image.
+- Step4: Extract Text (If you are embedding skip this step): Select an image with hidden text, provide the correct password, and extract the hidden message.
 
 Screenshots:
 
